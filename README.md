@@ -2,11 +2,12 @@
 
 Sample token project with minting and ownership enabled
 
-
 Install dependencies
 ```shell
 yarn install
 ```
+
+Rename test.env .env and set env variables
 
 Compile:
 ```shell
